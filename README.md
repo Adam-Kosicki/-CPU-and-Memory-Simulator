@@ -11,7 +11,7 @@ sample3: ![sample3](https://user-images.githubusercontent.com/100010326/23633641
 
 sample4: ![sample4](https://user-images.githubusercontent.com/100010326/236336430-132cbdcd-b049-4aca-99dd-19123f006873.PNG)
 
-#How To Run
+## How To Run
 
 ﻿Files:
 CPU.java -- simulates the CPU, creates processes of Memory.java with arguments to transfer data back and forth. Parent class.
